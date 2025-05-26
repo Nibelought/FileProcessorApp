@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OPI_TextEditor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58727aaaf5b192020e66303687241170d861075a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec137ac8a24305173459f1dfd216cab4f48316fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("OPI_TextEditor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OPI_TextEditor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
